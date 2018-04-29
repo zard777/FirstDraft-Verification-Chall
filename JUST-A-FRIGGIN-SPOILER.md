@@ -8,7 +8,7 @@
 
 
 <details> 
-  <summary>Hint (Huh, wanna give up ?!!) </summary>
+  <summary>flag (Huh, wanna give up ?!!) </summary>
    
 _YT DataViewer_ 
 ```
@@ -27,7 +27,7 @@ Upload Time (UTC): 23:41:47
 **_Note_**: Answer must be in UTC (ex: 19:15)
 
 <details> 
-  <summary>Hint (Huh, wanna give up ?!!) </summary>
+  <summary>flag (Huh, wanna give up ?!!) </summary>
 
 _Fotoforensics_
 ```
@@ -45,7 +45,7 @@ Filetime:	2017-12-06 16:12:52 GMT
 **_Note_**: Verify that image in the given article and choose "Yes" or "No" 
 
 <details> 
-  <summary>Hint (Huh, wanna give up ?!!) </summary>
+  <summary>flag (Huh, wanna give up ?!!) </summary>
 
 _Proof-of-Concept_
 ```
@@ -61,7 +61,7 @@ https://www.tineye.com/search/435684f79592ba4554fd6190e4184ed0e119a841/?sort=cra
 + The original video: `https://www.youtube.com/watch?v=OIQsm2A-Hcs`
 
 <details> 
-  <summary>Hint (Huh, wanna give up ?!!) </summary>
+  <summary>flag (Huh, wanna give up ?!!) </summary>
 
 _YT DataViewer + Reverse image search_
 ```
@@ -75,7 +75,7 @@ The tool detect the building in that video is Edificio Metrópolis, Madrid
 + [Fullscreen of picture](http://ftp.firstdraftnews.com/articulate/V_C_/story_content/external_files/20171204_142638.jpg)
  
 <details> 
-  <summary>Hint (Huh, wanna give up ?!!) </summary>
+  <summary>flag (Huh, wanna give up ?!!) </summary>
 
 ```
 I found that this is also a great challenge because it don't have GPS metadata  
